@@ -1,6 +1,6 @@
 # 🔍 Upwork Job Scraper (Auto Login + Cloudflare Bypass + Time-Based Filtering)
 
-This is a powerful and customizable Upwork job scraper built using `Selenium`, `undetected_chromedriver`, `pyautogui`, and `pandas`. It automatically logs into Upwork using your Google credentials, bypasses Cloudflare "Verify you're human" challenges, and scrapes job listings while avoiding repeated entries based on posting time.
+This is a powerful and customizable Upwork job scraper built using `Selenium`, `undetected_chromedriver`, `pyautogui`, and `pandas`. It automatically logs into Upwork using your Google credentials, bypasses Cloudflare "Verify you're human" challenges, auto searches the query and scrapes job listings while avoiding repeated entries based on posting time.
 
 ---
 
